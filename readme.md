@@ -56,6 +56,7 @@ password:author
 ### Note Dashboard
 - Dashboard dapat digunakan menggunakan dua roles yaitu admin dan author
 - Masing masing role mempunyai privilege menu (seperti author hanya dapat melakukan CRUD article dan category)
+- Admin dapat mengupload banner article yang automatis mengenerate thumbnail dan normal picture 
 
 ### Note Website
 - Website homepage secara default menampilkan 5 article terbaru
